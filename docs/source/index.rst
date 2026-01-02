@@ -1,51 +1,57 @@
 
 #############################################################################################
-ML Career Guide
+Project: Growth
 #############################################################################################
-=============================================================================================
+
+*********************************************************************************************
 What this is
-=============================================================================================
-This is my **personal knowledge index**.
+*********************************************************************************************
+This is my **cognitive systems notebook**.
 
-I use it to:
+I use it to collect ideas, summaries, and reminders related to:
 
-- remind myself what topics matter
-- capture the **key takeaways** I trust (or mostly trust)
-- keep **curated links** for deeper dives
-- leave breadcrumbs for things I want to explore later
+- learning and recall
+- thinking clearly
+- habits, health, and energy
+- decision-making and self-improvement
 
-It's written primarily for **future me**, and secondarily for friends who might find the material useful for learning or interview prep.
+It's written primarily for **me**, but kept open so others can browse, reuse, or adapt anything that resonates.
 
-=============================================================================================
+*********************************************************************************************
 What this is not
-=============================================================================================
-- Not a journal or workspace
-- Not a dumping ground for brainstorming or exploratory notes
-- Not a textbook (details and derivations live elsewhere)
-- Not a portfolio or blog
+*********************************************************************************************
+- Not a daily journal or planner
+- Not a live task tracker
+- Not a scientific or medical authority
+- Not a curated, up-to-date guide
 
-=============================================================================================
+Some ideas here may be incomplete, outdated, or no longer things I actively practice. That's intentional.
+
+*********************************************************************************************
 How to read this
-=============================================================================================
-Each topic is intentionally lightweight:
+*********************************************************************************************
+Topics here are broad and loosely structured. Expect:
 
-- a short scope
-- a few stable takeaways
-- links I consider worth revisiting
-- pointers to explore further
+- short summaries of books, talks, or articles
+- heuristics and mental models
+- notes that reflect where I was thinking at a given time
 
-Some sections will be deeper than others. That's expected.
+Depth and polish will vary. Some sections exist mainly as **memory anchors**.
 
-=============================================================================================
+*********************************************************************************************
 How to use this
-=============================================================================================
-If you want:
+*********************************************************************************************
+If you're reading this:
 
-- a quick refresh: scan the takeaways
-- a path to go deeper: follow the links
-- a polished exposition: this is not the place
+- treat it as a **personal lens**
+- take what's useful, ignore the rest
+- don't assume everything here is endorsed forever
 
-This document is meant to stay **useful, skimmable, and low-maintenance** over time.
+*********************************************************************************************
+Intent
+*********************************************************************************************
+The goal is not to be right or current.
+The goal is to **remember what I once found useful**, and to make it easy to revisit or rethink later.
 
 =============================================================================================
 Table of Contents
