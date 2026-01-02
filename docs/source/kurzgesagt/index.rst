@@ -12,3 +12,4 @@ A collection of *a-ha factos* from various non-academic books. Whenever possible
 .. toctree::
 
    daily-stoic
+   quantum-habits
