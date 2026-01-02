@@ -4,4 +4,4 @@ Communication Skills
 .. toctree::
 
    mindgames
-   conversations
+   conversation
