@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Machine Learning Career Guide'
+project = 'Mental Toolkit'
 copyright = '2022-2026, UselessTechJunks'
 author = 'Useless Tech Junks'
 
