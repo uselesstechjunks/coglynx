@@ -59,6 +59,7 @@ Table of Contents
 .. toctree::
     :maxdepth: 1
 
-    kurzgesagt/index
     studytips/index
     orgtips/index
+    commtips/index
+    kurzgesagt/index
