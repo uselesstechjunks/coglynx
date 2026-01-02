@@ -60,6 +60,6 @@ Table of Contents
     :maxdepth: 1
 
     studytips/index
-    orgtips/index
-    commtips/index
+    orgskills/index
+    peopleskills/index
     kurzgesagt/index

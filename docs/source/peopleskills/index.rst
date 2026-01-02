@@ -1,4 +1,4 @@
-Communication Skills
+People Skills
 #####################################
 
 .. toctree::
