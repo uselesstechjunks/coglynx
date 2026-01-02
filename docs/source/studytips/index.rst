@@ -8,6 +8,7 @@ Meta-Learning
    mindmap
    successful-students-technique
    learning-tricks
+   understand
    how-to-math
    goal-science
    sleep-science
