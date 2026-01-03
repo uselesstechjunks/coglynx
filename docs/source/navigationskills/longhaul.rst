@@ -13,7 +13,7 @@ Navigating through the Long Haul
     - What can I still learn from these that is transferable?
     - If I have to survive a toxic workplace
         - Toughest: Stop caring about what happens at work.
-        - See how to to utilize work hours to my benefit.
+        - See how to utilize work hours to my benefit.
         - Don't get fired.
     - If I have to grind through a topic which doesn't interest me
         - Toughest: Convince yourself that it's important.

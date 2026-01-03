@@ -26,7 +26,7 @@
 #. Promptness is a sign of respect.
 #. When you're young, spend at least six months to one year living as poorly as you can, owning as little as you possibly can, and eating beans and rice in a tiny room or tent to experience what your worst lifestyle may be. That way, when you have something in the future that you want that is at risk, you won't be afraid of the worst-case scenario.
 #. Believe me, there is no "them"!
-#. The more you are interested in others, the more interesting they find you.So, to be interesting, be interested.
+#. The more you are interested in others, the more interesting they find you. So, to be interesting, be interested.
 #. Optimize your generosity. No one on their deathbed has ever regretted giving away too much.
 #. To make something good, just do it. To make something great, just redo it, redo it, redo it. Making fine things is all about remaking them. The golden rule will never fail you. It is the foundation of all the other virtues.
 #. If you're looking for something in your house and then you finally find it, when you're done with it, don't put it back where you found it. Put it back where you first looked for it.
@@ -44,7 +44,7 @@
 #. You are what you do, not what you say, not what you believe, not how you vote, but what you spend your time on.
 #. If you lose or forget to bring a cable and adapter, check with your hotel. Most hotels have a drawer full of cables, devices, and chargers that others have left behind and probably have the one that you want if you can claim it after you borrow it.
 #. A hitch is a curse that does not affect the hated; it only affects the hater, so release a grudge as if it were poison.
-#. There is no limit to getting better. The town is unevenly distributed, but there is no limit to how much we can do with what we start with.
+#. There is no limit to getting better. The talent is unevenly distributed, but there is no limit to how much we can do with what we start with.
 #. Be prepared when you are 90% done. Any large project, such as a house, a film, an event, or a nap—the rest of the countless details will take another 90% of the time to complete.
 #. When you die, you take absolutely nothing with you except your reputation.
 #. Before you are old, attend as many funerals as you can bear and listen. Nobody talks about the departed's achievements; the only thing people mention is what kind of person you were while you were achieving.

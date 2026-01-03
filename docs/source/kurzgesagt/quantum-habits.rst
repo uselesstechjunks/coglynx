@@ -12,7 +12,7 @@ B. Essentials
 ============================================================================
 1. Cue - hacks: time and space, kickstart
   - Find time & place where ideas work best (e.g., coffee place in the morning, sitting in a jungle, sitting beside the sea).
-  - Establish rituals - without forming an obsessed.
+  - Establish rituals - without forming an obsession.
   - Simulate if needed
 2. Craving - hacks: tie with attractiveness/value system 
   - piggyback on your natural craving for social recognition (be part of groups where desired behaviour is the norm) 
@@ -30,5 +30,5 @@ B. Essentials
 C. Advanced
 ============================================================================
 1. The gene view - play your strength
-2. Goldilock zone for engagement vs boredom - choosing the tasks at the right difficulty level is the key to engagement and reward
+2. Goldilocks zone for engagement vs boredom - choosing the tasks at the right difficulty level is the key to engagement and reward
 3. Swiss army knife - dangers of automation

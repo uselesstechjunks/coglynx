@@ -6,7 +6,7 @@ The Science of Setting & Achieving Goals
 
 * failing 15% of time = optimal for learning
 * much of goal directed behavior is to avoid things which cause fear
-* four areas which effect goals
+* four areas which affect goals
 
     #. anxiety/fear
     #. action and inaction
@@ -74,7 +74,7 @@ How to optimize dopamine for pursuit of goals?
 
   * biggest increases in dopamine = positive and unexpected. 
   * lesser dopamine = positive expected things happen. 
-  * predict something good = increase in dopamine, however if predicted thing doesn't occur, there is large drop in dopamine (dissapointment)
+  * predict something good = increase in dopamine, however if predicted thing doesn't occur, there is large drop in dopamine (disappointment)
   
 * being forced to do something is unhealthy
 * our subjective understanding of why we are doing something is fundamentally important towards accomplishment
@@ -85,7 +85,7 @@ How to optimize dopamine for pursuit of goals?
 * predict and visualize failure, but do not think of ourselves as failing. think and act in a way attune with success and reward yourself from successful actions.
 
 * cold showers are good for long lasting dopamine
-* visual focus increases motivation, readiness, and willingness. when visual focus defuses, we become relaxed and comfortable in personal space, and are less likely to pursue goals
+* visual focus increases motivation, readiness, and willingness. when visual focus diffuses, we become relaxed and comfortable in personal space, and are less likely to pursue goals
 * plan concretely. concrete set of actions to follow
 * focus on particular points to remove distractors and get body ready for forward motion towards goals
 

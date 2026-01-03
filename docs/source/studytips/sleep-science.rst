@@ -24,11 +24,11 @@ Best Evening Practices
 #. Get outside to see the sunset. Sun is at low solar angle and close to the horizon, drives melanopsin which signals the circadian clock that it’s the end of the day  
 #. Use night mode screen on your device screens (my note: F.lux program for computer)  
 #. Dim lights, using warmer color temperature. (my note: Philips hue)  
-#. Candles / Fireplace wont causing wakefulness signals (Don’t burn down house)  
+#. Candles / Fireplace won't cause wakefulness signals (Don’t burn down house)  
 #. The cells in our eyes that signals the central clock resides mostly in the bottom half of our retina which means it’s viewing our upper visual field. To avoid improper activation of neurons, place light low in your physical environment, on desktops or floor. 
 #. It is absolutely crucial to avoid light exposure between 11pm and 4am. It will disrupt many important physiological processes that help us rest and repair.
 
-Provide consistent powerful light anchors during the day and avoiding light at night, you get a tremendous number of positive effects on your wellbeing.   
+Provide consistent powerful light anchors during the day and avoiding light at night, you get a tremendous number of positive effects on your well-being.   
 
 =====================================================================================
 Control your sleep environment 
